@@ -14,5 +14,5 @@ The txt annotation file for the KPC mouse RNAseq data are included.
 
 ## Data files
 
-The CYTOF fcs files required to run the code are included.
+The CYTOF fcs files required to run the code are available at http://flowrepository.org/id/FR-FCM-Z3MW.
 The Rds object for the KPC mouse RNAseq dataset is included.
